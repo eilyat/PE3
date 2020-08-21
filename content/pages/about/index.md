@@ -6,13 +6,3 @@ heroSubHeading: Principal Economics provides economic consultancy services to a 
 layout: aboutlayout
 title: About
 ---
-
-<div>
-{{< content-strip-left "/pages/about" "content1" >}}
-</div>
-<div>
-{{< content-strip-right "/pages/about" "content2" >}}
-</div>
-<div>
-{{< content-strip-center "/pages/about" "content3" >}}
-</div>
